@@ -1,0 +1,7 @@
+C:\Users\SRMidia\source\repos\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\GeradorDeSenhas.exe.config
+C:\Users\SRMidia\source\repos\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\GeradorDeSenhas.exe
+C:\Users\SRMidia\source\repos\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\GeradorDeSenhas.pdb
+C:\Users\SRMidia\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.csproj.AssemblyReference.cache
+C:\Users\SRMidia\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.csproj.CoreCompileInputs.cache
+C:\Users\SRMidia\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.exe
+C:\Users\SRMidia\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.pdb
